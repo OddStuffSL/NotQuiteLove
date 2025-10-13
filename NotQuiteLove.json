@@ -6,7 +6,7 @@
    "cover":"https://raw.githubusercontent.com/OddStuffSL/NotQuiteLove/refs/heads/main/Covers/1.jpg",
    "chapters":{
       "1":{
-         "title":"Yoshida and Tessera",
+         "title":"",
          "volume":"1",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/ljyqa8xnk72"
@@ -14,4 +14,5 @@
          "last_updated":"1760378354"
       }
    }
+
 }
