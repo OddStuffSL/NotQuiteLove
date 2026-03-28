@@ -36,7 +36,15 @@
             "Odd Stuff":"/proxy/api/imgchest/chapter/qe4gpjplb4j"
          },
          "last_updated":"1769562160"
-      }
+      },
+      "5":{
+         "title":"Chapter 5",
+         "volume":"1",
+         "groups":{
+            "Odd Stuff":"/proxy/api/imgchest/chapter/md7odz3x2yp"
+         },
+         "last_updated":"1774727534"
+      },
    }
 }
 
